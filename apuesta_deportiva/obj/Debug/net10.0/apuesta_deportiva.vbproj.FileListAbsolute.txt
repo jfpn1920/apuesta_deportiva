@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\bin\Debug\net10.0\apuesta_deportiva.exe
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\bin\Debug\net10.0\apuesta_deportiva.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\bin\Debug\net10.0\apuesta_deportiva.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\bin\Debug\net10.0\apuesta_deportiva.dll
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\bin\Debug\net10.0\apuesta_deportiva.pdb
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.dll
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\refint\apuesta_deportiva.dll
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.pdb
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\apuesta_deportiva.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\apuesta_deportiva\apuesta_deportiva\obj\Debug\net10.0\ref\apuesta_deportiva.dll
